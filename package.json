@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2"},"description":"API de canais IPTV — JSON completo, playlists, player e proxy HLS stateless, com URLs por número e por nome do canal.","engines":{"node":">=18"},"main":"server.js","name":"iptv-api-v2","private":true,"scripts":{"dev":"node server.js","start":"node server.js"},"version":"2.0.0"}
